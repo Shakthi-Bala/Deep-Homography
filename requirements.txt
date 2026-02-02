@@ -1,0 +1,29 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# Core PyTorch (CUDA 12.4 Compatible)
+torch
+torchvision
+torchaudio
+
+# Deep Homography & Vision Utilities
+kornia>=0.7.0
+tensorboard
+tqdm
+scikit-image
+
+# Required 
+contourpy
+cycler
+fonttools
+kiwisolver
+matplotlib
+numpy<2.0
+opencv-python
+packaging
+pandas
+pillow
+pyparsing
+python-dateutil
+pytz
+six
+tzdata
